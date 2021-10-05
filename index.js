@@ -7,7 +7,6 @@ const Client = new Discord.Client({
     ]
 });
 
-const { token } = require("./config.json")
 
 const { MessageEmbed } = require("discord.js")
 
